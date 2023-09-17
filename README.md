@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-ChatWizzi: A Personalized One-to-One Chat and Image Sharing App
+<h1>ChatWizzi: A Personalized One-to-One Chatting App </h1>
 
 In the world of digital communication, where social media platforms and messaging apps abound, there's a growing need for more intimate and private interactions. Enter ChatWizzi, a specialized application designed exclusively for one-to-one chatting and image sharing, while offering users the ability to personalize their profiles.
 
@@ -52,3 +52,6 @@ Platform Compatibility:
 ChatWizzi understands that users have different preferences, so it aims to be available on various platforms. Whether you prefer using your mobile device (iOS and Android) or a web browser, ChatWizzi is designed to be accessible wherever you are.
 
 In conclusion, ChatWizzi is a specialized application that caters to those who value private, one-on-one conversations and the ability to personalize their profiles. With its focus on simplicity, privacy, and user engagement, it provides a refreshing alternative to the crowded landscape of messaging apps. Whether you're reconnecting with old friends or sharing moments with loved ones, ChatWizzi offers the perfect platform for your intimate digital interactions.
+
+
+
