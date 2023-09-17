@@ -49,7 +49,7 @@ Emphasis on Simplicity:
 By focusing solely on one-to-one chatting and image sharing, ChatWizzi aims to provide a streamlined and distraction-free messaging experience. It's a refreshing departure from platforms cluttered with notifications and group chats, allowing you to concentrate on the person you're talking to.
 
 Platform Compatibility:
-ChatWizzi understands that users have different preferences, so it aims to be available on various platforms. Whether you prefer using your mobile device (iOS and Android) or a web browser, ChatWizzi is designed to be accessible wherever you are.
+ChatWizzi understands that users have different preferences, so it aims to be available on various platforms. Whether you prefer using your mobile device, ChatWizzi is designed to be accessible wherever you are.
 
 In conclusion, ChatWizzi is a specialized application that caters to those who value private, one-on-one conversations and the ability to personalize their profiles. With its focus on simplicity, privacy, and user engagement, it provides a refreshing alternative to the crowded landscape of messaging apps. Whether you're reconnecting with old friends or sharing moments with loved ones, ChatWizzi offers the perfect platform for your intimate digital interactions.
 
