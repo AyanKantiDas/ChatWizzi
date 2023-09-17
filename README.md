@@ -53,5 +53,5 @@ ChatWizzi understands that users have different preferences, so it aims to be av
 
 In conclusion, ChatWizzi is a specialized application that caters to those who value private, one-on-one conversations and the ability to personalize their profiles. With its focus on simplicity, privacy, and user engagement, it provides a refreshing alternative to the crowded landscape of messaging apps. Whether you're reconnecting with old friends or sharing moments with loved ones, ChatWizzi offers the perfect platform for your intimate digital interactions.
 
-
+<h3>@Ayankantidas copyrights</h3>
 
