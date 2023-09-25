@@ -52,6 +52,14 @@ Platform Compatibility:
 ChatWizzi understands that users have different preferences, so it aims to be available on various platforms. Whether you prefer using your mobile device, ChatWizzi is designed to be accessible wherever you are.
 
 In conclusion, ChatWizzi is a specialized application that caters to those who value private, one-on-one conversations and the ability to personalize their profiles. With its focus on simplicity, privacy, and user engagement, it provides a refreshing alternative to the crowded landscape of messaging apps. Whether you're reconnecting with old friends or sharing moments with loved ones, ChatWizzi offers the perfect platform for your intimate digital interactions.
+![phone 1](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/5e9daef4-dbbd-40f7-a4ec-3793b08aaea0)
+![phone 2](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/011e178d-913c-4538-9847-66646efa944b)
+![phone 3](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/596aa902-00db-4414-a22a-bd503ad0d47d)
+![phone 4](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/9a6fa4c4-fb81-4f33-9030-c8ee06ba7886)
+![phone 5](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/105036f4-d74e-4d9b-a8b4-ad398a05a7e9)
+![phone 6](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/cba89e05-1e75-419a-9cc6-43b2e4ca5d0f)
+![phone 7](https://github.com/AyanKantiDas/ChatWizzi/assets/103057066/76153055-e93d-4c62-8967-08051bc8ecf2)
+
 
 <h3>@Ayankantidas copyrights</h3>
 
