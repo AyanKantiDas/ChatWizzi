@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<h2>Available on Google Play:  https://play.google.com/store/apps/details?id=com.kanti.chat </h2>
+
 <h1>ChatWizzi: A Personalized One-to-One Chatting App </h1>
 
 In the world of digital communication, where social media platforms and messaging apps abound, there's a growing need for more intimate and private interactions. Enter ChatWizzi, a specialized application designed exclusively for one-to-one chatting and image sharing, while offering users the ability to personalize their profiles.
